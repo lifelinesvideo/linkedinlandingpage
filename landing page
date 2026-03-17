@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width">
+
+  <!-- LinkedIn / Open Graph tags -->
+  <meta property="og:title"       content="Melissa & Doug Hall of Fame" />
+  <meta property="og:description" content="Melissa and Doug honored at Hall of Fame award ceremony" />
+  <meta property="og:image"       content="https:\/\/i.vimeocdn.com\/video\/2134765774-a3b7c92cc54dff4d808de08d85e1c95ac4cb2473d0810e17fec342b7b43b5251-d_640?region=us" />
+  <meta property="og:image:width"  content="1200" />
+  <meta property="og:image:height" content="627" />
+  <meta property="og:type"        content="video.other" />
+  <meta property="og:url"         content="https://YOUR-DOMAIN/page.html" />
+
+  <title>Melissa & Doug Hall of Fame</title>
+</head>
+<body>
+  <h1>Melissa & Doug Hall of Fame</h1>
+  <p>Melissa and Doug honored at Hall of Fame award ceremony</p>
+
+  <!-- Paste your Vimeo embed code here -->
+  <iframe src="https://player.vimeo.com/video/1174088144"
+    width="640" height="360" frameborder="0"
+    allow="autoplay; fullscreen" allowfullscreen></iframe>
+</body>
+</html>
